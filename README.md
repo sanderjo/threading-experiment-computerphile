@@ -6,6 +6,13 @@ Code copied from / based on https://youtu.be/E3hvLz717zM?t=276
 
 <img width="1035" height="641" alt="image" src="https://github.com/user-attachments/assets/ad21214f-37aa-46cf-be7c-b3eb81195790" />
 
+## compile and run
+
+```
+g++ -std=c++17 test.cpp -o test
+./test
+```
+
 ## Example output
 ```
 sander@zwarte:~/git/threading-experiment-computerphile$ ./test 
