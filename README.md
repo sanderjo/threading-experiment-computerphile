@@ -9,7 +9,7 @@ Code copied from / based on https://youtu.be/E3hvLz717zM?t=276
 ## compile and run
 
 ```
-g++ -std=c++17 test.cpp -o test
+make # which does: g++ -std=c++17 test.cpp -o test
 ./test
 ```
 
